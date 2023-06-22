@@ -77,11 +77,11 @@
   },
   "labels": [],
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "elias.habash@dataiku.com"
     },
-    "lastModifiedOn": 1687471654945,
+    "lastModifiedOn": 1687471665924,
     "extendedProperties": {}
   },
   "creationTag": {
