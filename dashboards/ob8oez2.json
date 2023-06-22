@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "2QqDqV0",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "elias.habash@dataiku.com",
+  "listed": true,
+  "name": "gitlab testing\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "elias.habash@dataiku.com"
+    },
+    "lastModifiedOn": 1687471633544,
+    "extendedProperties": {}
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "elias.habash@dataiku.com"
+    },
+    "lastModifiedOn": 1687471633544,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
