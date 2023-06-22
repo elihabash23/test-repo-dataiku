@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "elias.habash@dataiku.com"
     },
-    "lastModifiedOn": 1687471643522,
+    "lastModifiedOn": 1687471643544,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -77,7 +77,6 @@
   },
   "tags": [],
   "params": {
-    "uploadBoxId": "22a6492493875b908bddd7b464e9ab6114b01bdb653b493aa0fe4f995c2dcf9f",
     "uploadConnection": "Default (in DSS data dir.)",
     "notReadyIfEmpty": false,
     "filesSelectionRules": {
