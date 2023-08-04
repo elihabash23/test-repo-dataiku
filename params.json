@@ -20,9 +20,11 @@
     "flowAnchorSourcesAndSinks": true,
     "flowDisplaySettings": {
       "zonesGraphRenderingAlgorithm": "DOT_OLDRANK",
-      "zonesGraphConnectZones": true
+      "zonesGraphConnectZones": true,
+      "zonesGraphForJobs": true
     },
     "gitCommitMode": "AUTO",
+    "useRemoteGit": true,
     "disableAutomaticTriggers": false,
     "integrations": {
       "integrations": []
@@ -104,6 +106,11 @@
     "k8sCluster": {
       "clusterMode": "INHERIT"
     },
+    "llmSettings": {
+      "offerDolly7B": true,
+      "offerFalcon7BInstruct": true,
+      "additionalHuggingFaceModels": []
+    },
     "virtualWebAppBackendSettings": {
       "mode": "INHERIT",
       "preventOverride": false,
@@ -161,6 +168,7 @@
           "samplingMethod": "FULL",
           "maxRecords": -1,
           "targetRatio": 0.02,
+          "ascending": true,
           "withinFirstN": -1,
           "maxReadUncompressedBytes": -1
         }
@@ -188,6 +196,14 @@
     "displayedState": {
       "checks": []
     }
+  },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "elias.habash@dataiku.com"
+    },
+    "lastModifiedOn": 1691180413166,
+    "extendedProperties": {}
   },
   "creationTag": {
     "versionNumber": 0,
