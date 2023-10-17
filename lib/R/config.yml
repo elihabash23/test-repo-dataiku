@@ -1,0 +1,2 @@
+default:
+  out_dir:  “step1_storage”
